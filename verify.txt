@@ -1,0 +1,24 @@
+[100] EN: The principal concept of set theory,the one that in completely axiomatic studies  is  the  principal  primitive(undefine
+     ZH: 集合论的主要概念，在完全公理化的研究中是主要原始（未定义）概念，即属于概念。如果 x 属于 A（x 是 A 的元素，x 包含于 A），我们写作
+
+[300] EN: A∩BC(A∩C)U(B∩C').
+     ZH: A∩BC(A∩C)U(B∩C')
+
+[447] EN: Uiar Az or U:Ai,
+     ZH: Uiar Az 或 U:Ai,
+
+[500] EN: A=f-¹(f(A)).
+     ZH: A = f⁻¹(f(A))。
+
+[700] EN: Here  is  an  example.Let  X  be  w+,i.e.,X=w  U   {w}.Define  order  in X by ordering the elements of w as usual and by
+     ZH: 这里有一个例子。设 X 为 ω+，即 X = ω ∪ {ω}。在 X 中定义序：按通常方式排列 ω 中的元素，并要求对所有 n ∈ ω 有 n < ω。结果得到一个良序集。问题：是否存在 X 的一个真子集 S，使得 0 ∈ S，并且每当 n
+
+[900] EN: 17
+     ZH: 17
+
+[980] EN: ExERCISE.Prove  that   if  a  andβ  are  ordinal  numbers,then   card(α+β) =cardα+cardβ     and     card(aβ)=(card     α
+     ZH: 习题。证明：若α和β是序数，则card(α+β)=cardα+cardβ且card(αβ)=(cardα)(cardβ)。左侧运算采用序数解释，右侧采用基数解释。
+
+[987] EN: For  each  infinite  cardinal  number  a,consider  the  set  c(a)of  all  infinite cardinal   numbers   that   are   str
+     ZH: 对于每个无穷基数 \(a\)，考虑所有严格小于 \(a\) 的无穷基数构成的集合 \(c(a)\)。若 \(a = \omega\)，则 \(c(a) = \varnothing\)；若 \(a = \aleph_1\)，则 \(c(a) 
+

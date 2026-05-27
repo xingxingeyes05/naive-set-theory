@@ -1,0 +1,25 @@
+[0] EN: Undergraduate Texts in Mathematics
+     ZH: 数学本科生教材
+
+[100] EN: The principal concept of set theory,the one that in completely axiomatic studies  is  the  principal  primitive(undefine
+     ZH: 集合论的主要概念，在完全公理化的研究中是主要原始（未定义）概念，即属于概念。如果 x 属于 A（x 是 A 的元素，x 包含于 A），我们写作
+
+[300] EN: A∩BC(A∩C)U(B∩C').
+     ZH: A∩BC(A∩C)U(B∩C')
+
+[500] EN: A=f-¹(f(A)).
+     ZH: f(f⁻¹(B)) = B。
+
+[700] EN: Here  is  an  example.Let  X  be  w+,i.e.,X=w  U   {w}.Define  order  in X by ordering the elements of w as usual and by
+     ZH: 一个偏序集可能没有最小元素；即使有，也完全有可能某个子集没有最小元素。如果一个偏序集的每个非空子集都有最小元素，则称该偏序集为良序的（其序关系称为良序）。这个定义的一个推论——在查看任何例子和反例之前就值得注意——是每个良序集都是全序集。事
+
+[900] EN: 17
+     ZH: 4
+
+[980] EN: ExERCISE.Prove  that   if  a  andβ  are  ordinal  numbers,then   card(α+β) =cardα+cardβ     and     card(aβ)=(card     α
+     ZH: 作为这些考虑的一个应用，我们提及该不等式。
+
+[987] EN: For  each  infinite  cardinal  number  a,consider  the  set  c(a)of  all  infinite cardinal   numbers   that   are   str
+     ZH: 基数符号中有一个非常常用的特殊符号，即希伯来字母的第一个字母（ℵ，aleph）。特别地，最小的超限序数，即ω，也是一个基数，作为基数时，它通常用ℵ₀表示。
+
+Empty/short ZH in body: 22
